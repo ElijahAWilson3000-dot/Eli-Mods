@@ -1,0 +1,16 @@
+{
+  "name": "Tails_Modgen_SuperHyper",
+  "version": "1.0.0",
+  "author": "ElijahAWilson3000-dot",
+  "description": "Modgen-inspired Super and Hyper Tails sprite atlases for Sonic 3 AIR (v26.03.28.0). Personal-use only.",
+  "gameVersion": "26.03.28.0",
+  "files": [
+    "sprites/tails_super.png",
+    "sprites/tails_hyper.png",
+    "palette.act",
+    "palette.txt",
+    "frames.txt",
+    "README.md"
+  ],
+  "license": "Personal use only. Redistribution prohibited without permission from the author."
+}

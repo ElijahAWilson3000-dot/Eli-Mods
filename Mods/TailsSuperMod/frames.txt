@@ -1,0 +1,52 @@
+# Frame atlas mapping for tails_super.png and tails_hyper.png
+# Frame size: 64x64 px
+# Origin/pivot: bottom-center (x=32, y=56)
+# Atlas layout: 4 columns (x increases by 64), rows as listed
+
+transform_01: x=0 y=0 w=64 h=64
+transform_02: x=64 y=0 w=64 h=64
+transform_03: x=128 y=0 w=64 h=64
+transform_04: x=192 y=0 w=64 h=64
+transform_05: x=0 y=64 w=64 h=64
+transform_06: x=64 y=64 w=64 h=64
+transform_07: x=128 y=64 w=64 h=64
+transform_08: x=192 y=64 w=64 h=64
+
+idle_01: x=0 y=128 w=64 h=64
+idle_02: x=64 y=128 w=64 h=64
+idle_03: x=128 y=128 w=64 h=64
+idle_04: x=192 y=128 w=64 h=64
+
+run_01: x=0 y=192 w=64 h=64
+run_02: x=64 y=192 w=64 h=64
+run_03: x=128 y=192 w=64 h=64
+run_04: x=192 y=192 w=64 h=64
+run_05: x=0 y=256 w=64 h=64
+run_06: x=64 y=256 w=64 h=64
+run_07: x=128 y=256 w=64 h=64
+run_08: x=192 y=256 w=64 h=64
+
+jump_01: x=0 y=320 w=64 h=64
+jump_02: x=64 y=320 w=64 h=64
+jump_03: x=128 y=320 w=64 h=64
+jump_04: x=192 y=320 w=64 h=64
+
+spin_01: x=0 y=384 w=64 h=64
+spin_02: x=64 y=384 w=64 h=64
+spin_03: x=128 y=384 w=64 h=64
+spin_04: x=192 y=384 w=64 h=64
+spin_05: x=0 y=448 w=64 h=64
+spin_06: x=64 y=448 w=64 h=64
+
+fly_01: x=0 y=512 w=64 h=64
+fly_02: x=64 y=512 w=64 h=64
+fly_03: x=128 y=512 w=64 h=64
+fly_04: x=192 y=512 w=64 h=64
+
+hurt_01: x=0 y=576 w=64 h=64
+hurt_02: x=64 y=576 w=64 h=64
+
+win_01: x=0 y=640 w=64 h=64
+win_02: x=64 y=640 w=64 h=64
+win_03: x=128 y=640 w=64 h=64
+win_04: x=192 y=640 w=64 h=64
