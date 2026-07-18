@@ -1,0 +1,4 @@
+include afterimages
+include drawtarget
+include collision
+include palettes/?
